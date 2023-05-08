@@ -4,9 +4,9 @@ The following **required** functionality is completed:
 
 - [ X ] **Create A Boat**
 - [  ] **Delete A Boat**
-- - [  ] **Edit/PATCH A Boat**
-- - [  ] **Edit/PUT A Boat**
-- - [  ] **View/GET A Boat**
+- [  ] **Edit/PATCH A Boat**
+- [  ] **Edit/PUT A Boat**
+- [  ] **View/GET A Boat**
 
 
 - [  ] **200 Status Code**
