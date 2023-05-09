@@ -41,3 +41,23 @@ router.post('/', function(req, res){
         })
     }
 })
+
+
+
+            /*var keys_array = Object.keys(req.body)
+            var new_data = {}
+            for (let i = 0; i < keys_array.length; i++) {
+                let temp = keys_array[i]
+                new_data[temp] = req.body[temp]
+            }
+            // Adding original key-value pair if not in request body.
+            if (!new_data.hasOwnProperty('name')){
+                new_data['name'] = boat[0].name}
+            if (!new_data.hasOwnProperty('type')){
+                new_data['type'] = boat[0].type}
+            if (!new_data.hasOwnProperty('length')){
+                new_data['length'] = boat[0]['length']
+            }
+            // Update boat with new data.
+            var partial_update = patch_boat(req.params.boat_id, new_data)
+            res.status(200).type('json').send('{"Status Code": "200 - Boat successfully updated."}')*/
