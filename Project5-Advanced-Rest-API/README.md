@@ -16,6 +16,6 @@ The following **required** functionality is completed:
 - [ X ] **400 Status Code**
 - [ X ] **403 Status Code**
 - [ X ] **404 Status Code**
-- [  ] **405 Status Code**
+- [ X ] **405 Status Code**
 - [ X ] **406 Status Code**
 - [ X ] **415 Status Code**
